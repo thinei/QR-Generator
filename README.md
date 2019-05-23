@@ -5,5 +5,6 @@
 
 2. QR code image will be generated based on your input text.
 
-3. The output QR image can save in phone gallery. 
-      p.s  * only tapping upon image, this will automatically saved in your phone gallery. * 
+3. The output QR image can save in phone gallery.
+- only tapping upon image, this will automatically saved in your phone gallery.
+   
